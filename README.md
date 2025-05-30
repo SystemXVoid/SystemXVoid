@@ -6,6 +6,9 @@ I'm an **American** passionate when it comes to making projects for various comm
 - **Render Vape (no longer continued)**
 - **Packet Roblox**
 
+## 🥇 Fluent in
+![fluentin](https://skillicons.dev/icons?i=lua,nodejs,html,css)
+
 ## 🏫 Currently Learning 
 ![stuff](https://skillicons.dev/icons?i=py,java,cpp)
 <!--
