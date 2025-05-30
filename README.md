@@ -2,7 +2,7 @@
 I create things for the public on my freetime.
 
 ## 🏫 Currently Learning
-- ![Lua](h[ttps://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white](https://skillicons.dev/icons?i=lua))
+- [Lua](https://skillicons.dev/icons?i=lua)
 
 <!--
 **SystemXVoid/SystemXVoid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
