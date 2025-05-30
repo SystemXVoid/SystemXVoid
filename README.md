@@ -1,4 +1,7 @@
 # 👋 Welcome to profile!
+I'm an **American** with passionate when it comes to making projects for various communities (Roblox/Discord)
+
+
 I create things for the public on my freetime. I've developed various projects such as:
 - **Render Vape (no longer continued)**
 - **Packet Roblox**
