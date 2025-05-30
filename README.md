@@ -6,9 +6,6 @@ I'm an **American** passionate when it comes to making projects for various comm
 - **Render Vape (no longer continued)**
 - **Packet Roblox**
 
-## 🏫 Currently Learning
-[![dev](https://skillicons.dev/icons?i=lua,cpp)](https://skillicons.dev/icons?i=py,java)
-
 <!--
 **SystemXVoid/SystemXVoid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
