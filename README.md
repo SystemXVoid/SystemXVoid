@@ -2,7 +2,7 @@
 I'm an **American** with passionate when it comes to making projects for various communities (Roblox/Discord)
 
 
-I create things for the public on my freetime. I've developed various projects such as:
+# 🏛️ Developed Projects
 - **Render Vape (no longer continued)**
 - **Packet Roblox**
 
