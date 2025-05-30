@@ -1,5 +1,5 @@
 # 👋 Welcome to profile!
-I'm an **American** with passionate when it comes to making projects for various communities (Roblox/Discord)
+I'm an **American** passionate when it comes to making projects for various communities (Roblox/Discord)
 
 
 ## 🏛️ Developed Projects
