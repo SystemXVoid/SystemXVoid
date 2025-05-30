@@ -2,7 +2,7 @@
 I create things for the public on my freetime.
 
 ## 🏫 Currently Learning
-- ![Lua](https://skillicons.dev/icons?i=lua)
+[![Developer](https://skillicons.dev/icons?i=lua,cpp)](https://skillicons.dev/icons?i=py,java)
 
 <!--
 **SystemXVoid/SystemXVoid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
