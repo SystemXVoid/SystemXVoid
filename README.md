@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hell0 there 👋
+Just a passionate developer creating things for the Public. 
 
 <!--
 **SystemXVoid/SystemXVoid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
