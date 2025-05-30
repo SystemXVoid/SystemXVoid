@@ -4,7 +4,7 @@ I create things for the public on my freetime. I've developed various projects s
 - **Packet Roblox**
 
 ## 🏫 Currently Learning
-[![Developer](https://skillicons.dev/icons?i=lua,cpp)](https://skillicons.dev/icons?i=py,java)
+[![dev](https://skillicons.dev/icons?i=lua,cpp)](https://skillicons.dev/icons?i=py,java)
 
 <!--
 **SystemXVoid/SystemXVoid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
