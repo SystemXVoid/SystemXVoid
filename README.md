@@ -1,7 +1,6 @@
 # 👋 Welcome to profile!
 I'm an **American** passionate when it comes to making projects for various communities (Roblox/Discord)
 
-
 # 🏛️ Developed Projects
 - [**Render Vape (discontinued)**](https://renderintents.lol)
 - [**Packet Roblox**](https://packetroblox.xyz)
@@ -11,6 +10,9 @@ I'm an **American** passionate when it comes to making projects for various comm
 
 ### 🏫 Currently Learning 
 ![stuff](https://skillicons.dev/icons?i=py,java,cpp)
+
+# 📞 Contact
+![Discord](ttps://skillicons.dev/icons?i=discord) - **blankedvoid**
 <!--
 **SystemXVoid/SystemXVoid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
