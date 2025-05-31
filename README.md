@@ -11,7 +11,7 @@ I'm an **American** passionate when it comes to making projects for various comm
 ### 🏫 Currently Learning 
 ![stuff](https://skillicons.dev/icons?i=py,java,cpp)
 
-# 📞 Contact
+## 📞 Contact
 **@blankedvoid**
 
 
