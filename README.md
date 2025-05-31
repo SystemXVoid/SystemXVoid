@@ -2,9 +2,9 @@
 I'm an **American** passionate when it comes to making projects for various communities (Roblox/Discord)
 
 
-### 🏛️ Developed Projects
-- **Render Vape (no longer continued)**
-- **Packet Roblox**
+# 🏛️ Developed Projects
+- [**Render Vape (discontinued)**](https://renderintents.lol)
+- [**Packet Roblox**](https://packetroblox.xyz)
 
 ### 🥇 Fluent in
 ![fluentin](https://skillicons.dev/icons?i=lua,nodejs,html,css)
