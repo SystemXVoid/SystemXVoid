@@ -15,7 +15,7 @@ I'm an **American** passionate when it comes to making projects for various comm
 **@blankedvoid**
 
 
-![Discord](https://skillicons.dev/icons?i=discord)
+![Discord](https://skillicons.dev/icons?i=discord)(https://packetroblox.xyz)
 <!--
 **SystemXVoid/SystemXVoid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
