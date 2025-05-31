@@ -1,4 +1,4 @@
-# 👋 Welcome to my profile!
+# 👋 Welcome to my Profile!
 I'm an **American** passionate when it comes to making projects for various communities (Roblox/Discord).
 
 # 🏳️ Render Intents
