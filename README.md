@@ -7,6 +7,7 @@ I'm an **American** passionate when it comes to making projects for various comm
 - **Packet Roblox**
 
 ## 🥇 Fluent in
+I've been focusing on these past languages since **2021**
 ![fluentin](https://skillicons.dev/icons?i=lua,nodejs,html,css)
 
 ## 🏫 Currently Learning 
