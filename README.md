@@ -1,5 +1,8 @@
 # 👋 Welcome to profile!
-I'm an **American** passionate when it comes to making projects for various communities (Roblox/Discord)
+I'm an **American** passionate when it comes to making projects for various communities (Roblox/Discord).
+
+# 🏳️ Render Intents
+[**Render Intents**](https://github.com/@renderintents) is a team of developers and a union of projects formed which I formed in Late 2023.
 
 # 🏛️ Developed Projects
 - [**Render Vape (discontinued)**](https://renderintents.lol)
