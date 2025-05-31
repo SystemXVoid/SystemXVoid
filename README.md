@@ -12,7 +12,7 @@ I'm an **American** passionate when it comes to making projects for various comm
 ![stuff](https://skillicons.dev/icons?i=py,java,cpp)
 
 # 📞 Contact
-(@blankedvoid)
+**@blankedvoid**
 
 
 ![Discord](https://skillicons.dev/icons?i=discord)
