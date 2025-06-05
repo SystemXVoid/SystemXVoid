@@ -11,6 +11,8 @@ I'm an **American** passionate when it comes to making projects for various comm
 ### 🥇 Fluent in
 ![fluentin](https://skillicons.dev/icons?i=lua,nodejs,html,css)
 
+[![stats](https://github-readme-stats.vercel.app/api?username=SystemXVoid)](https://github.com/anuraghazra/github-readme-stats)
+
 ### 🏫 Currently Learning 
 ![stuff](https://skillicons.dev/icons?i=py,java,cpp)
 
